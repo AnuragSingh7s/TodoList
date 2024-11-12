@@ -35,6 +35,11 @@ ul li{
     font-size: 30px;
     position: relative;
 }
+.completed{
+    background: linear-gradient(150deg,blue,red);
+    text-decoration: line-through;
+    color: white;
+}
 .deleteBtn{
    position: absolute;
    top: 10px;
